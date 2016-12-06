@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Praktikum 13</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>de.fhdo.rb.fat.FatReader</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>src\de</path>
+			</folderitem>
+			<folderitem>
+				<path>src\de\fhdo</path>
+			</folderitem>
+			<folderitem>
+				<path>src\de\fhdo\rb</path>
+			</folderitem>
+			<folderitem>
+				<path>src\de\fhdo\rb\fat</path>
+			</folderitem>
+			<fileitem>
+				<path>rb1pr13_FatReader.zip</path>
+			</fileitem>
+			<fileitem>
+				<path>src\de\fhdo\rb\fat\Block.java</path>
+				<folder>src\de\fhdo\rb\fat</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\de\fhdo\rb\fat\BootRecord.java</path>
+				<folder>src\de\fhdo\rb\fat</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\de\fhdo\rb\fat\DiscImage.java</path>
+				<folder>src\de\fhdo\rb\fat</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\de\fhdo\rb\fat\FatReader.java</path>
+				<folder>src\de\fhdo\rb\fat</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks>
+		<todotaskitem>
+			<description>TODO Praktikums zum FAT-Verzeichnisaufbau</description>
+			<filepath>src\de\fhdo\rb\fat\FatReader.java</filepath>
+			<line>69</line>
+			<timestamp>1418654701</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO Praktikums zum Lesen von FAT-Dateien</description>
+			<filepath>src\de\fhdo\rb\fat\FatReader.java</filepath>
+			<line>89</line>
+			<timestamp>1418654701</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO Hier wenn notwendig den Pfad zum Image anpassen!</description>
+			<filepath>src\de\fhdo\rb\fat\FatReader.java</filepath>
+			<line>98</line>
+			<timestamp>1418654701</timestamp>
+		</todotaskitem>
+	</tasks>
+</project>

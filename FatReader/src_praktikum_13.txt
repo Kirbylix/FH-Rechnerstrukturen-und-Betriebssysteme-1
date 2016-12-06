@@ -1,0 +1,4 @@
+"H:\\DropBox\\FH\\1 Semester\\Rechnerstrukturen und Betriebssysteme 1\\workspace\\FatReader\\src\\de\\fhdo\\rb\\fat\\Block.java"
+"H:\\DropBox\\FH\\1 Semester\\Rechnerstrukturen und Betriebssysteme 1\\workspace\\FatReader\\src\\de\\fhdo\\rb\\fat\\BootRecord.java"
+"H:\\DropBox\\FH\\1 Semester\\Rechnerstrukturen und Betriebssysteme 1\\workspace\\FatReader\\src\\de\\fhdo\\rb\\fat\\DiscImage.java"
+"H:\\DropBox\\FH\\1 Semester\\Rechnerstrukturen und Betriebssysteme 1\\workspace\\FatReader\\src\\de\\fhdo\\rb\\fat\\FatReader.java"

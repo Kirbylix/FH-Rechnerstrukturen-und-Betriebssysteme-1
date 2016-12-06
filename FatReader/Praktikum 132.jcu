@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Praktikum 13</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Praktikum 13</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>src\de</path>
+			</folderitem>
+			<folderitem>
+				<path>src\de\fhdo</path>
+			</folderitem>
+			<folderitem>
+				<path>src\de\fhdo\rb</path>
+			</folderitem>
+			<folderitem>
+				<path>src\de\fhdo\rb\fat</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\de\fhdo\rb\fat\FatReader.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
